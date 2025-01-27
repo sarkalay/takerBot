@@ -1,0 +1,30 @@
+[
+  {
+    "address": "address-1",
+    "privateKey": "privatekey-1"
+  },
+  {
+    "address": "address-2",
+    "privateKey": "privatekey-2"
+  },
+  {
+    "address": "address-3",
+    "privateKey": "privatekey-3"
+  },
+  {
+    "address": "address-4",
+    "privateKey": "privatekey-4"
+  }
+  {
+    "address": "address-5",
+    "privateKey": "privatekey-5"
+  }
+  {
+    "address": "address-6",
+    "privateKey": "privatekey-6"
+  }
+  {
+    "address": "address-7",
+    "privateKey": "privatekey-7"
+  }
+]
